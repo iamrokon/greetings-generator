@@ -2,9 +2,9 @@
     "name": ":vendor_slug/:package_slug",
     "description": ":package_description",
     "keywords": [
-        ":vendor_name",
         "laravel",
-        ":package_slug"
+        "greetings",
+        "generator"
     ],
     "homepage": "https://github.com/:vendor_slug/:package_slug",
     "license": "MIT",
